@@ -55,6 +55,34 @@ tree=("leafs","branches","animals",'34')
 print(tree)
 print(type(tree))
 
+print(".......")
 
+data=range(10)
+print(data)
+print(type(data))
 
+for x in range(10):
+          print(x)
+print(type(x))
 
+set_dt={1,2.5,"3+4j",1,5.6}
+print(set_dt)
+print(type(set_dt))
+
+froz=frozenset(set_dt)
+print(froz)
+print(type(froz))
+
+print("")
+
+bl=True
+print(bl)
+print(type(bl))
+
+std={237813250:"suchi",237813207:"suchi"}
+print(std)
+print(type(std))
+
+str="bhanu"
+print(str)
+print(type(str))
