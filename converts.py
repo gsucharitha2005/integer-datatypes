@@ -33,4 +33,28 @@ print(decimal)
 octal=oct(decimal)
 print(octal)
 
+print("................")
+
+num=50.7
+print(num)
+print("number type:",type(num))
+
+print("")
+ 
+complex=3+5j
+print(complex)
+print("number type:",type(complex))
+
+complex=["chairs","tables",'45']
+print(complex)
+print("number type:",type(num))
+
+print("")
+
+tree=("leafs","branches","animals",'34')
+print(tree)
+print(type(tree))
+
+
+
 
